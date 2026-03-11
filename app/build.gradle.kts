@@ -56,4 +56,9 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     // retrofit
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
+
+
+// a8b3bb6a15de10bb8a5e75b2cfb1b475 Api Key
+
+// https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=a8b3bb6a15de10bb8a5e75b2cfb1b475 url api
 }

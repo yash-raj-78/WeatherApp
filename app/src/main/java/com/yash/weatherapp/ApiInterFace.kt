@@ -12,3 +12,4 @@ interface ApiInterFace {
         @Query("units") units :String
     ) : Call<WeatherApp>
 }
+
