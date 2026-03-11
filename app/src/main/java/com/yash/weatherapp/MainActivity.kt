@@ -13,9 +13,6 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-// a8b3bb6a15de10bb8a5e75b2cfb1b475 Api Key
-
-// https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=a8b3bb6a15de10bb8a5e75b2cfb1b475 url api
 
 class MainActivity : AppCompatActivity() {
     private val binding : ActivityMainBinding by lazy {
