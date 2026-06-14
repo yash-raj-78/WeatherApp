@@ -28,16 +28,16 @@ The app allows users to search any city and view current temperature, humidity, 
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splash-screen.jpeg)
+![Splash Screen](screenshots/splashscreen.jpeg)
 
 ### Home Screen
-![Home Screen](screenshots/home-screen.jpeg)
+![Home Screen](screenshots/home.jpeg)
 
 ### Search City Screen
-![Search City Screen](screenshots/search-city-screen.jpeg)
+![Search City Screen](screenshots/searchcity.jpeg)
 
 ### Weather Details Screen
-![Weather Details Screen](screenshots/weather-details-screen.jpeg)
+![Weather Details Screen](screenshots/weatherdetails.jpeg)
 
 ## Project Architecture
 
